@@ -49,6 +49,11 @@ If you'd like to collaborate or discuss a project, feel free to reach out to me 
 
 ## 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT for Developers](https://codenathan.com/chatgpt-for-developers)
+- [Make Money With Coding](https://codenathan.com/make-money-with-coding)
+- [How I Would Learn To Code &lpar;If I Could Start Over&rpar;](https://codenathan.com/how-i-would-learn-to-code-if-i-could-start-over)
+- [Web Developer Roadmap 2023 : The Ultimate Guide](https://codenathan.com/web-developer-roadmap-the-ultimate-guide)
+- [Introducing Myself and My Blog: A Web Developer’s Perspective](https://codenathan.com/introducing-myself-and-my-blog-a-web-developers-perspective)
 <!-- BLOG-POST-LIST:END -->
 
 
