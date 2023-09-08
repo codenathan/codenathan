@@ -6,9 +6,9 @@
 
 ## 💻 &nbsp;About me
 
-- I'm a Senior Backend Developer based in Birmingham, UK. specialising in Laravel, PHP.
+- I'm a Senior Backend Developer based in Birmingham, UK specialising in Laravel, and PHP.
 - I also offer development services for WordPress.
-- Currenly Exporing with React, TypeScript, and GoLang
+- Currently Exploring with React, TypeScript, and GoLang
 
 ## 🌐&nbsp;Connect with me:
 If you'd like to collaborate or discuss a project, feel free to reach out to me through any of the channels mentioned below.  I'm always open to new opportunities and challenges!
@@ -20,7 +20,7 @@ If you'd like to collaborate or discuss a project, feel free to reach out to me 
 <a href="https://www.youtube.com/@codenathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@codenathan" height="30" width="40" /></a>
 <a href="https://twitter.com/_codenathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/codenathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/3787810'codenathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/3787810" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
 <a href="https://instagram.com/codenathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" />
 <a href="https://codenathan.com/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://codenathan.com/feed" height="30" width="40" /></a>
 </p>
@@ -72,5 +72,6 @@ If you'd like to collaborate or discuss a project, feel free to reach out to me 
 [instagram]: https://instagram.com/codenathan
 [linkedin]: https://linkedin.com/in/codenathan
 [github]: https://github.com/codenathan
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codenathan" alt="codenathan" /></a> </p>
 
