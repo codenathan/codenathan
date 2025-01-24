@@ -28,7 +28,7 @@ If you'd like to collaborate or discuss a project, feel free to reach out to me 
 
 ## Languages and Tools
 [<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />][website]
-[<img align="left" alt="Laravel" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" style="padding-right:10px;" />][website]
+[<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/laravel/laravel-original.svg" style="padding-right:10px;" />][website]
 [<img align="left" alt="GoLang" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="padding-right:10px;" />][website]
 [<img align="left" alt="PHP Storm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" style="padding-right:10px;" />][website]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][website]
