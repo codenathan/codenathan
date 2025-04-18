@@ -49,11 +49,11 @@ If you'd like to collaborate or discuss a project, feel free to reach out to me 
 
 ## 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Learn UI UX](https://codenathan.com/learn-ui-ux)
 - [Google My Business Introduces Social Media Links](https://codenathan.com/google-my-business-introduces-social-media-links)
 - [Upgrading From Laravel 5 to Laravel 8](https://codenathan.com/upgrading-from-laravel-5-to-laravel-8)
 - [ChatGPT for Developers](https://codenathan.com/chatgpt-for-developers)
 - [Make Money With Coding](https://codenathan.com/make-money-with-coding)
-- [How I Would Learn To Code &lpar;If I Could Start Over&rpar;](https://codenathan.com/how-i-would-learn-to-code-if-i-could-start-over)
 <!-- BLOG-POST-LIST:END -->
 
 
