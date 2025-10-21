@@ -6,9 +6,10 @@
 
 ## 💻 &nbsp;About me
 
-- I'm a Senior Backend Developer based in Birmingham, UK specialising in Laravel, and PHP.
+- I'm a Senior Backend Developer based in Birmingham, UK specialising in **Laravel**, and **PHP**.
 - I also offer development services for WordPress.
-- Currently Exploring with React, TypeScript, and GoLang
+- Passionate about **Vue.js** for frontend development ❤️.
+- Currently exploring **Golang** and backend microservices.
 
 ## 🌐&nbsp;Connect with me:
 If you'd like to collaborate or discuss a project, feel free to reach out to me through any of the channels mentioned below.  I'm always open to new opportunities and challenges!
@@ -36,6 +37,7 @@ If you'd like to collaborate or discuss a project, feel free to reach out to me 
 [<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />][website]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][website]
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][website]
+[<img align="left" alt="Vue" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" />][website]
 [<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />][website]
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][website]
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][website]
