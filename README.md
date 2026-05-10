@@ -51,11 +51,11 @@ If you'd like to collaborate or discuss a project, feel free to reach out to me 
 
 ## 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Configure SSR on a Laravel Inertia Project using Supervisor on Plesk](https://codenathan.com/configure-ssr-on-a-laravel-inertia-project-using-supervisor-on-plesk)
 - [Learn UI UX](https://codenathan.com/learn-ui-ux)
 - [Google My Business Introduces Social Media Links](https://codenathan.com/google-my-business-introduces-social-media-links)
 - [Upgrading From Laravel 5 to Laravel 8](https://codenathan.com/upgrading-from-laravel-5-to-laravel-8)
 - [ChatGPT for Developers](https://codenathan.com/chatgpt-for-developers)
-- [Make Money With Coding](https://codenathan.com/make-money-with-coding)
 <!-- BLOG-POST-LIST:END -->
 
 
